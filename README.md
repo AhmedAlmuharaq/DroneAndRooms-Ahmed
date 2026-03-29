@@ -261,7 +261,6 @@ Select a JSON scenario file from `json/` when prompted. The simulation starts au
 | | Name | Program | Links |
 |--|------|---------|-------|
 | 👤 | **Ahmed Almuharaq** | M1 IoT | [GitHub](https://github.com/AhmedAlmuharaq) · [LinkedIn](https://www.linkedin.com/in/almuharaqa/) |
-| 👤 | **Boluwatife ABIONA** | M1 IoT | Université Marie et Louis Pasteur |
 
 **Institution:** Université Marie et Louis Pasteur, Montbéliard, France
 **Year:** 2024–2025
